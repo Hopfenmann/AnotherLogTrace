@@ -1,0 +1,10 @@
+{
+  "Groups": {
+    "Exampl_Test": {
+      "logfiles": [
+        "C:\\temp\\Logfiles\\Log1.txt",
+        "C:\\temp\\Logfiles\\Log2.txt"
+      ]
+    }
+  }
+}

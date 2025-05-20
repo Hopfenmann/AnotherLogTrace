@@ -40,13 +40,13 @@ No installation needed, for maximum flexability.
 
 # Screenshots
 ## Overview
-![Overview](image.png)
+![Overview](ressources/image.png)
 
 ## DevPanel
-![DevPanel](image-1.png)
+![DevPanel](ressources/image-1.png)
 
 ## Drag&Drop Zones
-![Drag&Drop Zones](image-2.png)
+![Drag&Drop Zones](ressources/image-2.png)
 
 # External libraries
 - MahApps.Metro
