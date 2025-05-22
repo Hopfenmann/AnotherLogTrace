@@ -40,7 +40,7 @@ No installation needed, for maximum flexability.
 
 # Screenshots
 ## Overview
-![Overview](ressources/image.png)
+![Altrace](ressources/Altrace.gif)
 
 ## DevPanel
 ![DevPanel](ressources/image-1.png)
